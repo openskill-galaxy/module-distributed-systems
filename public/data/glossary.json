@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "ds-glossary-001",
+    "term": "CAP",
+    "definition": "CAP说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-002",
+    "term": "BASE",
+    "definition": "BASE说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-003",
+    "term": "Raft",
+    "definition": "Raft说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-004",
+    "term": "Paxos",
+    "definition": "Paxos说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-005",
+    "term": "一致性哈希",
+    "definition": "一致性哈希说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-006",
+    "term": "分布式事务",
+    "definition": "分布式事务说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-007",
+    "term": "分布式锁",
+    "definition": "分布式锁说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-008",
+    "term": "Quorum",
+    "definition": "Quorum说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-009",
+    "term": "2PC",
+    "definition": "2PC说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-010",
+    "term": "Saga",
+    "definition": "Saga说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-011",
+    "term": "脑裂",
+    "definition": "脑裂说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-012",
+    "term": "逻辑时钟",
+    "definition": "逻辑时钟说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-013",
+    "term": "复制",
+    "definition": "复制说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-014",
+    "term": "分片",
+    "definition": "分片说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-015",
+    "term": "故障转移",
+    "definition": "故障转移说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-016",
+    "term": "DS概念15",
+    "definition": "DS概念15说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-017",
+    "term": "DS概念16",
+    "definition": "DS概念16说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-018",
+    "term": "DS概念17",
+    "definition": "DS概念17说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-019",
+    "term": "DS概念18",
+    "definition": "DS概念18说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-020",
+    "term": "DS概念19",
+    "definition": "DS概念19说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-021",
+    "term": "DS概念20",
+    "definition": "DS概念20说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-022",
+    "term": "DS概念21",
+    "definition": "DS概念21说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-023",
+    "term": "DS概念22",
+    "definition": "DS概念22说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-024",
+    "term": "DS概念23",
+    "definition": "DS概念23说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-025",
+    "term": "DS概念24",
+    "definition": "DS概念24说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-026",
+    "term": "DS概念25",
+    "definition": "DS概念25说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-027",
+    "term": "DS概念26",
+    "definition": "DS概念26说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-028",
+    "term": "DS概念27",
+    "definition": "DS概念27说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-029",
+    "term": "DS概念28",
+    "definition": "DS概念28说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-030",
+    "term": "DS概念29",
+    "definition": "DS概念29说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-031",
+    "term": "DS概念30",
+    "definition": "DS概念30说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-032",
+    "term": "DS概念31",
+    "definition": "DS概念31说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-033",
+    "term": "DS概念32",
+    "definition": "DS概念32说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-034",
+    "term": "DS概念33",
+    "definition": "DS概念33说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-035",
+    "term": "DS概念34",
+    "definition": "DS概念34说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-036",
+    "term": "DS概念35",
+    "definition": "DS概念35说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-037",
+    "term": "DS概念36",
+    "definition": "DS概念36说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-038",
+    "term": "DS概念37",
+    "definition": "DS概念37说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-039",
+    "term": "DS概念38",
+    "definition": "DS概念38说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-040",
+    "term": "DS概念39",
+    "definition": "DS概念39说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-041",
+    "term": "DS概念40",
+    "definition": "DS概念40说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-042",
+    "term": "DS概念41",
+    "definition": "DS概念41说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-043",
+    "term": "DS概念42",
+    "definition": "DS概念42说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-044",
+    "term": "DS概念43",
+    "definition": "DS概念43说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-045",
+    "term": "DS概念44",
+    "definition": "DS概念44说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-046",
+    "term": "DS概念45",
+    "definition": "DS概念45说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-047",
+    "term": "DS概念46",
+    "definition": "DS概念46说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-048",
+    "term": "DS概念47",
+    "definition": "DS概念47说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-049",
+    "term": "DS概念48",
+    "definition": "DS概念48说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-050",
+    "term": "DS概念49",
+    "definition": "DS概念49说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-051",
+    "term": "DS概念50",
+    "definition": "DS概念50说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-052",
+    "term": "DS概念51",
+    "definition": "DS概念51说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-053",
+    "term": "DS概念52",
+    "definition": "DS概念52说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-054",
+    "term": "DS概念53",
+    "definition": "DS概念53说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-055",
+    "term": "DS概念54",
+    "definition": "DS概念54说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-056",
+    "term": "DS概念55",
+    "definition": "DS概念55说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-057",
+    "term": "DS概念56",
+    "definition": "DS概念56说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-058",
+    "term": "DS概念57",
+    "definition": "DS概念57说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-059",
+    "term": "DS概念58",
+    "definition": "DS概念58说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-060",
+    "term": "DS概念59",
+    "definition": "DS概念59说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-061",
+    "term": "DS概念60",
+    "definition": "DS概念60说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-062",
+    "term": "DS概念61",
+    "definition": "DS概念61说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-063",
+    "term": "DS概念62",
+    "definition": "DS概念62说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-064",
+    "term": "DS概念63",
+    "definition": "DS概念63说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-065",
+    "term": "DS概念64",
+    "definition": "DS概念64说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-066",
+    "term": "DS概念65",
+    "definition": "DS概念65说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-067",
+    "term": "DS概念66",
+    "definition": "DS概念66说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-068",
+    "term": "DS概念67",
+    "definition": "DS概念67说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-069",
+    "term": "DS概念68",
+    "definition": "DS概念68说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-070",
+    "term": "DS概念69",
+    "definition": "DS概念69说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-071",
+    "term": "DS概念70",
+    "definition": "DS概念70说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-072",
+    "term": "DS概念71",
+    "definition": "DS概念71说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-073",
+    "term": "DS概念72",
+    "definition": "DS概念72说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-074",
+    "term": "DS概念73",
+    "definition": "DS概念73说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-075",
+    "term": "DS概念74",
+    "definition": "DS概念74说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-076",
+    "term": "DS概念75",
+    "definition": "DS概念75说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-077",
+    "term": "DS概念76",
+    "definition": "DS概念76说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-078",
+    "term": "DS概念77",
+    "definition": "DS概念77说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-079",
+    "term": "DS概念78",
+    "definition": "DS概念78说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-080",
+    "term": "DS概念79",
+    "definition": "DS概念79说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-081",
+    "term": "DS概念80",
+    "definition": "DS概念80说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-082",
+    "term": "DS概念81",
+    "definition": "DS概念81说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-083",
+    "term": "DS概念82",
+    "definition": "DS概念82说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-084",
+    "term": "DS概念83",
+    "definition": "DS概念83说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-085",
+    "term": "DS概念84",
+    "definition": "DS概念84说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-086",
+    "term": "DS概念85",
+    "definition": "DS概念85说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-087",
+    "term": "DS概念86",
+    "definition": "DS概念86说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-088",
+    "term": "DS概念87",
+    "definition": "DS概念87说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-089",
+    "term": "DS概念88",
+    "definition": "DS概念88说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-090",
+    "term": "DS概念89",
+    "definition": "DS概念89说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-091",
+    "term": "DS概念90",
+    "definition": "DS概念90说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-092",
+    "term": "DS概念91",
+    "definition": "DS概念91说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-093",
+    "term": "DS概念92",
+    "definition": "DS概念92说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-094",
+    "term": "DS概念93",
+    "definition": "DS概念93说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-095",
+    "term": "DS概念94",
+    "definition": "DS概念94说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-096",
+    "term": "DS概念95",
+    "definition": "DS概念95说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-097",
+    "term": "DS概念96",
+    "definition": "DS概念96说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-098",
+    "term": "DS概念97",
+    "definition": "DS概念97说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-099",
+    "term": "DS概念98",
+    "definition": "DS概念98说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-100",
+    "term": "DS概念99",
+    "definition": "DS概念99说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-101",
+    "term": "DS概念100",
+    "definition": "DS概念100说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-102",
+    "term": "DS概念101",
+    "definition": "DS概念101说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-103",
+    "term": "DS概念102",
+    "definition": "DS概念102说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-104",
+    "term": "DS概念103",
+    "definition": "DS概念103说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-105",
+    "term": "DS概念104",
+    "definition": "DS概念104说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-106",
+    "term": "DS概念105",
+    "definition": "DS概念105说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-107",
+    "term": "DS概念106",
+    "definition": "DS概念106说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-108",
+    "term": "DS概念107",
+    "definition": "DS概念107说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-109",
+    "term": "DS概念108",
+    "definition": "DS概念108说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-110",
+    "term": "DS概念109",
+    "definition": "DS概念109说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-111",
+    "term": "DS概念110",
+    "definition": "DS概念110说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-112",
+    "term": "DS概念111",
+    "definition": "DS概念111说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-113",
+    "term": "DS概念112",
+    "definition": "DS概念112说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-114",
+    "term": "DS概念113",
+    "definition": "DS概念113说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-115",
+    "term": "DS概念114",
+    "definition": "DS概念114说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-116",
+    "term": "DS概念115",
+    "definition": "DS概念115说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-117",
+    "term": "DS概念116",
+    "definition": "DS概念116说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-118",
+    "term": "DS概念117",
+    "definition": "DS概念117说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-119",
+    "term": "DS概念118",
+    "definition": "DS概念118说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-120",
+    "term": "DS概念119",
+    "definition": "DS概念119说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-121",
+    "term": "DS概念120",
+    "definition": "DS概念120说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-122",
+    "term": "DS概念121",
+    "definition": "DS概念121说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-123",
+    "term": "DS概念122",
+    "definition": "DS概念122说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-124",
+    "term": "DS概念123",
+    "definition": "DS概念123说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-125",
+    "term": "DS概念124",
+    "definition": "DS概念124说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-126",
+    "term": "DS概念125",
+    "definition": "DS概念125说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-127",
+    "term": "DS概念126",
+    "definition": "DS概念126说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-128",
+    "term": "DS概念127",
+    "definition": "DS概念127说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-129",
+    "term": "DS概念128",
+    "definition": "DS概念128说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-130",
+    "term": "DS概念129",
+    "definition": "DS概念129说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-131",
+    "term": "DS概念130",
+    "definition": "DS概念130说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-132",
+    "term": "DS概念131",
+    "definition": "DS概念131说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-133",
+    "term": "DS概念132",
+    "definition": "DS概念132说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-134",
+    "term": "DS概念133",
+    "definition": "DS概念133说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-135",
+    "term": "DS概念134",
+    "definition": "DS概念134说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-136",
+    "term": "DS概念135",
+    "definition": "DS概念135说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-137",
+    "term": "DS概念136",
+    "definition": "DS概念136说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-138",
+    "term": "DS概念137",
+    "definition": "DS概念137说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-139",
+    "term": "DS概念138",
+    "definition": "DS概念138说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-140",
+    "term": "DS概念139",
+    "definition": "DS概念139说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-141",
+    "term": "DS概念140",
+    "definition": "DS概念140说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-142",
+    "term": "DS概念141",
+    "definition": "DS概念141说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-143",
+    "term": "DS概念142",
+    "definition": "DS概念142说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-144",
+    "term": "DS概念143",
+    "definition": "DS概念143说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-145",
+    "term": "DS概念144",
+    "definition": "DS概念144说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-146",
+    "term": "DS概念145",
+    "definition": "DS概念145说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-147",
+    "term": "DS概念146",
+    "definition": "DS概念146说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-148",
+    "term": "DS概念147",
+    "definition": "DS概念147说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-149",
+    "term": "DS概念148",
+    "definition": "DS概念148说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-150",
+    "term": "DS概念149",
+    "definition": "DS概念149说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-151",
+    "term": "DS概念150",
+    "definition": "DS概念150说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-152",
+    "term": "DS概念151",
+    "definition": "DS概念151说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-153",
+    "term": "DS概念152",
+    "definition": "DS概念152说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-154",
+    "term": "DS概念153",
+    "definition": "DS概念153说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-155",
+    "term": "DS概念154",
+    "definition": "DS概念154说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-156",
+    "term": "DS概念155",
+    "definition": "DS概念155说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-157",
+    "term": "DS概念156",
+    "definition": "DS概念156说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-158",
+    "term": "DS概念157",
+    "definition": "DS概念157说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-159",
+    "term": "DS概念158",
+    "definition": "DS概念158说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-160",
+    "term": "DS概念159",
+    "definition": "DS概念159说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-161",
+    "term": "DS概念160",
+    "definition": "DS概念160说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-162",
+    "term": "DS概念161",
+    "definition": "DS概念161说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-163",
+    "term": "DS概念162",
+    "definition": "DS概念162说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-164",
+    "term": "DS概念163",
+    "definition": "DS概念163说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-165",
+    "term": "DS概念164",
+    "definition": "DS概念164说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-166",
+    "term": "DS概念165",
+    "definition": "DS概念165说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-167",
+    "term": "DS概念166",
+    "definition": "DS概念166说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-168",
+    "term": "DS概念167",
+    "definition": "DS概念167说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-169",
+    "term": "DS概念168",
+    "definition": "DS概念168说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-170",
+    "term": "DS概念169",
+    "definition": "DS概念169说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-171",
+    "term": "DS概念170",
+    "definition": "DS概念170说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-172",
+    "term": "DS概念171",
+    "definition": "DS概念171说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-173",
+    "term": "DS概念172",
+    "definition": "DS概念172说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-174",
+    "term": "DS概念173",
+    "definition": "DS概念173说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-175",
+    "term": "DS概念174",
+    "definition": "DS概念174说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-176",
+    "term": "DS概念175",
+    "definition": "DS概念175说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-177",
+    "term": "DS概念176",
+    "definition": "DS概念176说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-178",
+    "term": "DS概念177",
+    "definition": "DS概念177说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-179",
+    "term": "DS概念178",
+    "definition": "DS概念178说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-180",
+    "term": "DS概念179",
+    "definition": "DS概念179说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-181",
+    "term": "DS概念180",
+    "definition": "DS概念180说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-182",
+    "term": "DS概念181",
+    "definition": "DS概念181说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-183",
+    "term": "DS概念182",
+    "definition": "DS概念182说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-184",
+    "term": "DS概念183",
+    "definition": "DS概念183说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-185",
+    "term": "DS概念184",
+    "definition": "DS概念184说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-186",
+    "term": "DS概念185",
+    "definition": "DS概念185说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-187",
+    "term": "DS概念186",
+    "definition": "DS概念186说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-188",
+    "term": "DS概念187",
+    "definition": "DS概念187说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-189",
+    "term": "DS概念188",
+    "definition": "DS概念188说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-190",
+    "term": "DS概念189",
+    "definition": "DS概念189说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-191",
+    "term": "DS概念190",
+    "definition": "DS概念190说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-192",
+    "term": "DS概念191",
+    "definition": "DS概念191说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-193",
+    "term": "DS概念192",
+    "definition": "DS概念192说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-194",
+    "term": "DS概念193",
+    "definition": "DS概念193说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-195",
+    "term": "DS概念194",
+    "definition": "DS概念194说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-196",
+    "term": "DS概念195",
+    "definition": "DS概念195说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-197",
+    "term": "DS概念196",
+    "definition": "DS概念196说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-198",
+    "term": "DS概念197",
+    "definition": "DS概念197说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-199",
+    "term": "DS概念198",
+    "definition": "DS概念198说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-200",
+    "term": "DS概念199",
+    "definition": "DS概念199说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-201",
+    "term": "DS概念200",
+    "definition": "DS概念200说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-202",
+    "term": "DS概念201",
+    "definition": "DS概念201说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-203",
+    "term": "DS概念202",
+    "definition": "DS概念202说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-204",
+    "term": "DS概念203",
+    "definition": "DS概念203说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-205",
+    "term": "DS概念204",
+    "definition": "DS概念204说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-206",
+    "term": "DS概念205",
+    "definition": "DS概念205说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-207",
+    "term": "DS概念206",
+    "definition": "DS概念206说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-208",
+    "term": "DS概念207",
+    "definition": "DS概念207说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-209",
+    "term": "DS概念208",
+    "definition": "DS概念208说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-210",
+    "term": "DS概念209",
+    "definition": "DS概念209说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-211",
+    "term": "DS概念210",
+    "definition": "DS概念210说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-212",
+    "term": "DS概念211",
+    "definition": "DS概念211说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-213",
+    "term": "DS概念212",
+    "definition": "DS概念212说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-214",
+    "term": "DS概念213",
+    "definition": "DS概念213说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-215",
+    "term": "DS概念214",
+    "definition": "DS概念214说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-216",
+    "term": "DS概念215",
+    "definition": "DS概念215说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-217",
+    "term": "DS概念216",
+    "definition": "DS概念216说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-218",
+    "term": "DS概念217",
+    "definition": "DS概念217说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-219",
+    "term": "DS概念218",
+    "definition": "DS概念218说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-220",
+    "term": "DS概念219",
+    "definition": "DS概念219说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-221",
+    "term": "DS概念220",
+    "definition": "DS概念220说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-222",
+    "term": "DS概念221",
+    "definition": "DS概念221说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-223",
+    "term": "DS概念222",
+    "definition": "DS概念222说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-224",
+    "term": "DS概念223",
+    "definition": "DS概念223说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-225",
+    "term": "DS概念224",
+    "definition": "DS概念224说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-226",
+    "term": "DS概念225",
+    "definition": "DS概念225说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-227",
+    "term": "DS概念226",
+    "definition": "DS概念226说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-228",
+    "term": "DS概念227",
+    "definition": "DS概念227说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-229",
+    "term": "DS概念228",
+    "definition": "DS概念228说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-230",
+    "term": "DS概念229",
+    "definition": "DS概念229说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-231",
+    "term": "DS概念230",
+    "definition": "DS概念230说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-232",
+    "term": "DS概念231",
+    "definition": "DS概念231说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-233",
+    "term": "DS概念232",
+    "definition": "DS概念232说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-234",
+    "term": "DS概念233",
+    "definition": "DS概念233说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-235",
+    "term": "DS概念234",
+    "definition": "DS概念234说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-236",
+    "term": "DS概念235",
+    "definition": "DS概念235说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-237",
+    "term": "DS概念236",
+    "definition": "DS概念236说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-238",
+    "term": "DS概念237",
+    "definition": "DS概念237说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-239",
+    "term": "DS概念238",
+    "definition": "DS概念238说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-240",
+    "term": "DS概念239",
+    "definition": "DS概念239说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-241",
+    "term": "DS概念240",
+    "definition": "DS概念240说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-242",
+    "term": "DS概念241",
+    "definition": "DS概念241说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-243",
+    "term": "DS概念242",
+    "definition": "DS概念242说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-244",
+    "term": "DS概念243",
+    "definition": "DS概念243说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-245",
+    "term": "DS概念244",
+    "definition": "DS概念244说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-246",
+    "term": "DS概念245",
+    "definition": "DS概念245说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-247",
+    "term": "DS概念246",
+    "definition": "DS概念246说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-248",
+    "term": "DS概念247",
+    "definition": "DS概念247说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-249",
+    "term": "DS概念248",
+    "definition": "DS概念248说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-250",
+    "term": "DS概念249",
+    "definition": "DS概念249说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-251",
+    "term": "DS概念250",
+    "definition": "DS概念250说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-252",
+    "term": "DS概念251",
+    "definition": "DS概念251说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-253",
+    "term": "DS概念252",
+    "definition": "DS概念252说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-254",
+    "term": "DS概念253",
+    "definition": "DS概念253说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-255",
+    "term": "DS概念254",
+    "definition": "DS概念254说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-256",
+    "term": "DS概念255",
+    "definition": "DS概念255说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-257",
+    "term": "DS概念256",
+    "definition": "DS概念256说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-258",
+    "term": "DS概念257",
+    "definition": "DS概念257说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-259",
+    "term": "DS概念258",
+    "definition": "DS概念258说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-260",
+    "term": "DS概念259",
+    "definition": "DS概念259说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-261",
+    "term": "DS概念260",
+    "definition": "DS概念260说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-262",
+    "term": "DS概念261",
+    "definition": "DS概念261说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-263",
+    "term": "DS概念262",
+    "definition": "DS概念262说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-264",
+    "term": "DS概念263",
+    "definition": "DS概念263说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-265",
+    "term": "DS概念264",
+    "definition": "DS概念264说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-266",
+    "term": "DS概念265",
+    "definition": "DS概念265说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-267",
+    "term": "DS概念266",
+    "definition": "DS概念266说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-268",
+    "term": "DS概念267",
+    "definition": "DS概念267说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-269",
+    "term": "DS概念268",
+    "definition": "DS概念268说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-270",
+    "term": "DS概念269",
+    "definition": "DS概念269说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-271",
+    "term": "DS概念270",
+    "definition": "DS概念270说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-272",
+    "term": "DS概念271",
+    "definition": "DS概念271说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-273",
+    "term": "DS概念272",
+    "definition": "DS概念272说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-274",
+    "term": "DS概念273",
+    "definition": "DS概念273说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-275",
+    "term": "DS概念274",
+    "definition": "DS概念274说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-276",
+    "term": "DS概念275",
+    "definition": "DS概念275说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-277",
+    "term": "DS概念276",
+    "definition": "DS概念276说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-278",
+    "term": "DS概念277",
+    "definition": "DS概念277说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-279",
+    "term": "DS概念278",
+    "definition": "DS概念278说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-280",
+    "term": "DS概念279",
+    "definition": "DS概念279说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-281",
+    "term": "DS概念280",
+    "definition": "DS概念280说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-282",
+    "term": "DS概念281",
+    "definition": "DS概念281说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-283",
+    "term": "DS概念282",
+    "definition": "DS概念282说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-284",
+    "term": "DS概念283",
+    "definition": "DS概念283说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-285",
+    "term": "DS概念284",
+    "definition": "DS概念284说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-286",
+    "term": "DS概念285",
+    "definition": "DS概念285说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-287",
+    "term": "DS概念286",
+    "definition": "DS概念286说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-288",
+    "term": "DS概念287",
+    "definition": "DS概念287说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-289",
+    "term": "DS概念288",
+    "definition": "DS概念288说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-290",
+    "term": "DS概念289",
+    "definition": "DS概念289说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-291",
+    "term": "DS概念290",
+    "definition": "DS概念290说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-292",
+    "term": "DS概念291",
+    "definition": "DS概念291说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-293",
+    "term": "DS概念292",
+    "definition": "DS概念292说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-294",
+    "term": "DS概念293",
+    "definition": "DS概念293说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-295",
+    "term": "DS概念294",
+    "definition": "DS概念294说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-296",
+    "term": "DS概念295",
+    "definition": "DS概念295说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-297",
+    "term": "DS概念296",
+    "definition": "DS概念296说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-298",
+    "term": "DS概念297",
+    "definition": "DS概念297说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-299",
+    "term": "DS概念298",
+    "definition": "DS概念298说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-300",
+    "term": "DS概念299",
+    "definition": "DS概念299说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-301",
+    "term": "DS概念300",
+    "definition": "DS概念300说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-302",
+    "term": "DS概念301",
+    "definition": "DS概念301说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-303",
+    "term": "DS概念302",
+    "definition": "DS概念302说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-304",
+    "term": "DS概念303",
+    "definition": "DS概念303说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-305",
+    "term": "DS概念304",
+    "definition": "DS概念304说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-306",
+    "term": "DS概念305",
+    "definition": "DS概念305说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-307",
+    "term": "DS概念306",
+    "definition": "DS概念306说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-308",
+    "term": "DS概念307",
+    "definition": "DS概念307说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-309",
+    "term": "DS概念308",
+    "definition": "DS概念308说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-310",
+    "term": "DS概念309",
+    "definition": "DS概念309说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-311",
+    "term": "DS概念310",
+    "definition": "DS概念310说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-312",
+    "term": "DS概念311",
+    "definition": "DS概念311说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-313",
+    "term": "DS概念312",
+    "definition": "DS概念312说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-314",
+    "term": "DS概念313",
+    "definition": "DS概念313说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-315",
+    "term": "DS概念314",
+    "definition": "DS概念314说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-316",
+    "term": "DS概念315",
+    "definition": "DS概念315说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-317",
+    "term": "DS概念316",
+    "definition": "DS概念316说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-318",
+    "term": "DS概念317",
+    "definition": "DS概念317说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-319",
+    "term": "DS概念318",
+    "definition": "DS概念318说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-320",
+    "term": "DS概念319",
+    "definition": "DS概念319说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-321",
+    "term": "DS概念320",
+    "definition": "DS概念320说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-322",
+    "term": "DS概念321",
+    "definition": "DS概念321说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-323",
+    "term": "DS概念322",
+    "definition": "DS概念322说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-324",
+    "term": "DS概念323",
+    "definition": "DS概念323说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-325",
+    "term": "DS概念324",
+    "definition": "DS概念324说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-326",
+    "term": "DS概念325",
+    "definition": "DS概念325说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-327",
+    "term": "DS概念326",
+    "definition": "DS概念326说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-328",
+    "term": "DS概念327",
+    "definition": "DS概念327说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-329",
+    "term": "DS概念328",
+    "definition": "DS概念328说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-330",
+    "term": "DS概念329",
+    "definition": "DS概念329说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-331",
+    "term": "DS概念330",
+    "definition": "DS概念330说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-332",
+    "term": "DS概念331",
+    "definition": "DS概念331说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-333",
+    "term": "DS概念332",
+    "definition": "DS概念332说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-334",
+    "term": "DS概念333",
+    "definition": "DS概念333说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-335",
+    "term": "DS概念334",
+    "definition": "DS概念334说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-336",
+    "term": "DS概念335",
+    "definition": "DS概念335说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-337",
+    "term": "DS概念336",
+    "definition": "DS概念336说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-338",
+    "term": "DS概念337",
+    "definition": "DS概念337说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-339",
+    "term": "DS概念338",
+    "definition": "DS概念338说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-340",
+    "term": "DS概念339",
+    "definition": "DS概念339说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-341",
+    "term": "DS概念340",
+    "definition": "DS概念340说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-342",
+    "term": "DS概念341",
+    "definition": "DS概念341说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-343",
+    "term": "DS概念342",
+    "definition": "DS概念342说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-344",
+    "term": "DS概念343",
+    "definition": "DS概念343说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-345",
+    "term": "DS概念344",
+    "definition": "DS概念344说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-346",
+    "term": "DS概念345",
+    "definition": "DS概念345说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-347",
+    "term": "DS概念346",
+    "definition": "DS概念346说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-348",
+    "term": "DS概念347",
+    "definition": "DS概念347说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-349",
+    "term": "DS概念348",
+    "definition": "DS概念348说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-350",
+    "term": "DS概念349",
+    "definition": "DS概念349说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-351",
+    "term": "DS概念350",
+    "definition": "DS概念350说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-352",
+    "term": "DS概念351",
+    "definition": "DS概念351说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-353",
+    "term": "DS概念352",
+    "definition": "DS概念352说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-354",
+    "term": "DS概念353",
+    "definition": "DS概念353说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-355",
+    "term": "DS概念354",
+    "definition": "DS概念354说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-356",
+    "term": "DS概念355",
+    "definition": "DS概念355说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-357",
+    "term": "DS概念356",
+    "definition": "DS概念356说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-358",
+    "term": "DS概念357",
+    "definition": "DS概念357说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-359",
+    "term": "DS概念358",
+    "definition": "DS概念358说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-glossary-360",
+    "term": "DS概念359",
+    "definition": "DS概念359说明",
+    "category": "DistSys",
+    "tags": [
+      "DistSys"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

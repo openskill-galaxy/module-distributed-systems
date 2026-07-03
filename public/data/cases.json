@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "ds-case-001",
+    "title": "分布式锁案例1",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002944",
+      "ds-q-001822",
+      "ds-q-001334"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-002",
+    "title": "库存扣减案例2",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002083",
+      "ds-q-003287",
+      "ds-q-001041"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-003",
+    "title": "订单状态一致性案例3",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000025",
+      "ds-q-000005",
+      "ds-q-002952"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-004",
+    "title": "支付回调一致性案例4",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001058",
+      "ds-q-001580",
+      "ds-q-003538"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-005",
+    "title": "缓存一致性案例5",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000863",
+      "ds-q-002925",
+      "ds-q-001013"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-006",
+    "title": "分库分表路由案例6",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002233",
+      "ds-q-000585",
+      "ds-q-002391"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-007",
+    "title": "一致性哈希案例7",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000642",
+      "ds-q-001813",
+      "ds-q-000404"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-008",
+    "title": "主从复制延迟案例8",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001146",
+      "ds-q-001390",
+      "ds-q-003449"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-009",
+    "title": "RaftLeader选举案例9",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002084",
+      "ds-q-003469",
+      "ds-q-003654"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-010",
+    "title": "服务发现案例10",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003568",
+      "ds-q-003542",
+      "ds-q-001481"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-011",
+    "title": "配置中心案例11",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000972",
+      "ds-q-000919",
+      "ds-q-003409"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-012",
+    "title": "脑裂案例12",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002497",
+      "ds-q-000043",
+      "ds-q-002545"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-013",
+    "title": "幂等重试案例13",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002558",
+      "ds-q-003167",
+      "ds-q-002846"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-014",
+    "title": "分布式事务案例14",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001644",
+      "ds-q-002646",
+      "ds-q-001649"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-015",
+    "title": "Saga案例15",
+    "description": "通过Saga掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002063",
+      "ds-q-000725",
+      "ds-q-003139"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-016",
+    "title": "Outbox案例16",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001342",
+      "ds-q-000383",
+      "ds-q-002390"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-017",
+    "title": "故障转移案例17",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000839",
+      "ds-q-000740",
+      "ds-q-000816"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-018",
+    "title": "容灾恢复案例18",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002468",
+      "ds-q-003587",
+      "ds-q-000566"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-019",
+    "title": "DS面试案例19",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000637",
+      "ds-q-003132",
+      "ds-q-000379"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-020",
+    "title": "分布式锁案例20",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001130",
+      "ds-q-000031",
+      "ds-q-002842"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-021",
+    "title": "库存扣减案例21",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000659",
+      "ds-q-000004",
+      "ds-q-001872"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-022",
+    "title": "订单状态一致性案例22",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000771",
+      "ds-q-002385",
+      "ds-q-000543"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-023",
+    "title": "支付回调一致性案例23",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002491",
+      "ds-q-002292",
+      "ds-q-003541"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-024",
+    "title": "缓存一致性案例24",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003544",
+      "ds-q-002238",
+      "ds-q-000112"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-025",
+    "title": "分库分表路由案例25",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003535",
+      "ds-q-001535",
+      "ds-q-000872"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-026",
+    "title": "一致性哈希案例26",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000700",
+      "ds-q-003688",
+      "ds-q-000389"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-027",
+    "title": "主从复制延迟案例27",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002002",
+      "ds-q-000725",
+      "ds-q-002713"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-028",
+    "title": "RaftLeader选举案例28",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002376",
+      "ds-q-001667",
+      "ds-q-001988"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-029",
+    "title": "服务发现案例29",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003235",
+      "ds-q-002546",
+      "ds-q-000447"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-030",
+    "title": "配置中心案例30",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000300",
+      "ds-q-001297",
+      "ds-q-002759"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-031",
+    "title": "脑裂案例31",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000842",
+      "ds-q-000616",
+      "ds-q-001219"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-032",
+    "title": "幂等重试案例32",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002983",
+      "ds-q-001688",
+      "ds-q-000429"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-033",
+    "title": "分布式事务案例33",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002900",
+      "ds-q-003373",
+      "ds-q-002694"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-034",
+    "title": "Saga案例34",
+    "description": "通过Saga掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002398",
+      "ds-q-000198",
+      "ds-q-000223"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-035",
+    "title": "Outbox案例35",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001196",
+      "ds-q-001653",
+      "ds-q-001253"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-036",
+    "title": "故障转移案例36",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002345",
+      "ds-q-003335",
+      "ds-q-001642"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-037",
+    "title": "容灾恢复案例37",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002364",
+      "ds-q-003163",
+      "ds-q-001194"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-038",
+    "title": "DS面试案例38",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002922",
+      "ds-q-000814",
+      "ds-q-001732"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-039",
+    "title": "分布式锁案例39",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003283",
+      "ds-q-002659",
+      "ds-q-000232"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-040",
+    "title": "库存扣减案例40",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000190",
+      "ds-q-001045",
+      "ds-q-000636"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-041",
+    "title": "订单状态一致性案例41",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003621",
+      "ds-q-001951",
+      "ds-q-002207"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-042",
+    "title": "支付回调一致性案例42",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001982",
+      "ds-q-000600",
+      "ds-q-002818"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-043",
+    "title": "缓存一致性案例43",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000584",
+      "ds-q-001889",
+      "ds-q-001133"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-044",
+    "title": "分库分表路由案例44",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000434",
+      "ds-q-003125",
+      "ds-q-002315"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-045",
+    "title": "一致性哈希案例45",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003581",
+      "ds-q-000975",
+      "ds-q-003201"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-046",
+    "title": "主从复制延迟案例46",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001097",
+      "ds-q-000634",
+      "ds-q-003045"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-047",
+    "title": "RaftLeader选举案例47",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000783",
+      "ds-q-002371",
+      "ds-q-001183"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-048",
+    "title": "服务发现案例48",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003383",
+      "ds-q-000594",
+      "ds-q-001827"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-049",
+    "title": "配置中心案例49",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002835",
+      "ds-q-000500",
+      "ds-q-001575"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-050",
+    "title": "脑裂案例50",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002930",
+      "ds-q-002783",
+      "ds-q-000390"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-051",
+    "title": "幂等重试案例51",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002141",
+      "ds-q-001893",
+      "ds-q-003216"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-052",
+    "title": "分布式事务案例52",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002522",
+      "ds-q-000870",
+      "ds-q-002410"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-053",
+    "title": "Saga案例53",
+    "description": "通过Saga掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000135",
+      "ds-q-001140",
+      "ds-q-001899"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-054",
+    "title": "Outbox案例54",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002426",
+      "ds-q-001748",
+      "ds-q-003572"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-055",
+    "title": "故障转移案例55",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001690",
+      "ds-q-002055",
+      "ds-q-001967"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-056",
+    "title": "容灾恢复案例56",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001496",
+      "ds-q-002871",
+      "ds-q-001461"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-057",
+    "title": "DS面试案例57",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002732",
+      "ds-q-001634",
+      "ds-q-001291"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-058",
+    "title": "分布式锁案例58",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001210",
+      "ds-q-001466",
+      "ds-q-001819"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-059",
+    "title": "库存扣减案例59",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000551",
+      "ds-q-002286",
+      "ds-q-002804"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-060",
+    "title": "订单状态一致性案例60",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001933",
+      "ds-q-003233",
+      "ds-q-002853"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-061",
+    "title": "支付回调一致性案例61",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000562",
+      "ds-q-000329",
+      "ds-q-001140"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-062",
+    "title": "缓存一致性案例62",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002121",
+      "ds-q-002172",
+      "ds-q-003418"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-063",
+    "title": "分库分表路由案例63",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002159",
+      "ds-q-003337",
+      "ds-q-000170"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-064",
+    "title": "一致性哈希案例64",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002929",
+      "ds-q-001553",
+      "ds-q-000877"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-065",
+    "title": "主从复制延迟案例65",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001959",
+      "ds-q-001643",
+      "ds-q-002911"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-066",
+    "title": "RaftLeader选举案例66",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002488",
+      "ds-q-002527",
+      "ds-q-000833"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-067",
+    "title": "服务发现案例67",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003237",
+      "ds-q-000261",
+      "ds-q-002271"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-068",
+    "title": "配置中心案例68",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000684",
+      "ds-q-000371",
+      "ds-q-001175"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-069",
+    "title": "脑裂案例69",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003350",
+      "ds-q-001697",
+      "ds-q-001982"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-070",
+    "title": "幂等重试案例70",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003206",
+      "ds-q-002716",
+      "ds-q-000279"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-071",
+    "title": "分布式事务案例71",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000984",
+      "ds-q-002723",
+      "ds-q-002706"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-072",
+    "title": "Saga案例72",
+    "description": "通过Saga掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000780",
+      "ds-q-000945",
+      "ds-q-001246"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-073",
+    "title": "Outbox案例73",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001087",
+      "ds-q-003241",
+      "ds-q-000592"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-074",
+    "title": "故障转移案例74",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002840",
+      "ds-q-001438",
+      "ds-q-000238"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-075",
+    "title": "容灾恢复案例75",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000578",
+      "ds-q-001177",
+      "ds-q-003420"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-076",
+    "title": "DS面试案例76",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002025",
+      "ds-q-003396",
+      "ds-q-001815"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-077",
+    "title": "分布式锁案例77",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002613",
+      "ds-q-003210",
+      "ds-q-000507"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-078",
+    "title": "库存扣减案例78",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000447",
+      "ds-q-002724",
+      "ds-q-001086"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-079",
+    "title": "订单状态一致性案例79",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000230",
+      "ds-q-002468",
+      "ds-q-000959"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-080",
+    "title": "支付回调一致性案例80",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002114",
+      "ds-q-002842",
+      "ds-q-000228"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-081",
+    "title": "缓存一致性案例81",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003159",
+      "ds-q-001554",
+      "ds-q-001832"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-082",
+    "title": "分库分表路由案例82",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000247",
+      "ds-q-000152",
+      "ds-q-001688"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-083",
+    "title": "一致性哈希案例83",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001804",
+      "ds-q-001906",
+      "ds-q-002000"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-084",
+    "title": "主从复制延迟案例84",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000584",
+      "ds-q-000536",
+      "ds-q-000396"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-085",
+    "title": "RaftLeader选举案例85",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002525",
+      "ds-q-003307",
+      "ds-q-000741"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-086",
+    "title": "服务发现案例86",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001497",
+      "ds-q-000675",
+      "ds-q-000493"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-087",
+    "title": "配置中心案例87",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001513",
+      "ds-q-000727",
+      "ds-q-002530"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-088",
+    "title": "脑裂案例88",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002287",
+      "ds-q-001648",
+      "ds-q-000854"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-089",
+    "title": "幂等重试案例89",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001564",
+      "ds-q-000710",
+      "ds-q-000951"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-090",
+    "title": "分布式事务案例90",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002589",
+      "ds-q-003584",
+      "ds-q-000763"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-091",
+    "title": "Saga案例91",
+    "description": "通过Saga掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001648",
+      "ds-q-000383",
+      "ds-q-003588"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-092",
+    "title": "Outbox案例92",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001231",
+      "ds-q-002035",
+      "ds-q-002392"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-093",
+    "title": "故障转移案例93",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003511",
+      "ds-q-000438",
+      "ds-q-002930"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-094",
+    "title": "容灾恢复案例94",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003688",
+      "ds-q-001250",
+      "ds-q-003587"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-095",
+    "title": "DS面试案例95",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002780",
+      "ds-q-000008",
+      "ds-q-003252"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-096",
+    "title": "分布式锁案例96",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002158",
+      "ds-q-000037",
+      "ds-q-002607"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-097",
+    "title": "库存扣减案例97",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003146",
+      "ds-q-002297",
+      "ds-q-003266"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-098",
+    "title": "订单状态一致性案例98",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001619",
+      "ds-q-000456",
+      "ds-q-002963"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-099",
+    "title": "支付回调一致性案例99",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001957",
+      "ds-q-002411",
+      "ds-q-000568"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-100",
+    "title": "缓存一致性案例100",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000171",
+      "ds-q-003201",
+      "ds-q-002027"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-101",
+    "title": "分库分表路由案例101",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002196",
+      "ds-q-003259",
+      "ds-q-002042"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-102",
+    "title": "一致性哈希案例102",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002074",
+      "ds-q-001889",
+      "ds-q-002296"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-103",
+    "title": "主从复制延迟案例103",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001559",
+      "ds-q-003090",
+      "ds-q-003396"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-104",
+    "title": "RaftLeader选举案例104",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001208",
+      "ds-q-002394",
+      "ds-q-001113"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-105",
+    "title": "服务发现案例105",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000891",
+      "ds-q-001916",
+      "ds-q-002415"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-106",
+    "title": "配置中心案例106",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003063",
+      "ds-q-000484",
+      "ds-q-000683"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-107",
+    "title": "脑裂案例107",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002360",
+      "ds-q-003012",
+      "ds-q-002171"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-108",
+    "title": "幂等重试案例108",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000074",
+      "ds-q-001283",
+      "ds-q-002649"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-109",
+    "title": "分布式事务案例109",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001618",
+      "ds-q-000893",
+      "ds-q-001239"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-110",
+    "title": "Saga案例110",
+    "description": "通过Saga掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000511",
+      "ds-q-000897",
+      "ds-q-003289"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-111",
+    "title": "Outbox案例111",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002586",
+      "ds-q-001860",
+      "ds-q-003393"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-112",
+    "title": "故障转移案例112",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002625",
+      "ds-q-000571",
+      "ds-q-000236"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-113",
+    "title": "容灾恢复案例113",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001201",
+      "ds-q-001576",
+      "ds-q-001335"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-114",
+    "title": "DS面试案例114",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001215",
+      "ds-q-001816",
+      "ds-q-002327"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-115",
+    "title": "分布式锁案例115",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002220",
+      "ds-q-002979",
+      "ds-q-001033"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-116",
+    "title": "库存扣减案例116",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000559",
+      "ds-q-002173",
+      "ds-q-001099"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-117",
+    "title": "订单状态一致性案例117",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000672",
+      "ds-q-000594",
+      "ds-q-002679"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-118",
+    "title": "支付回调一致性案例118",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002240",
+      "ds-q-001571",
+      "ds-q-000831"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-119",
+    "title": "缓存一致性案例119",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000431",
+      "ds-q-002464",
+      "ds-q-000724"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-120",
+    "title": "分库分表路由案例120",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001536",
+      "ds-q-003211",
+      "ds-q-002321"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-121",
+    "title": "一致性哈希案例121",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002750",
+      "ds-q-001491",
+      "ds-q-002136"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-122",
+    "title": "主从复制延迟案例122",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003112",
+      "ds-q-003607",
+      "ds-q-000198"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-123",
+    "title": "RaftLeader选举案例123",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000274",
+      "ds-q-001059",
+      "ds-q-003322"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-124",
+    "title": "服务发现案例124",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003170",
+      "ds-q-001965",
+      "ds-q-000402"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-125",
+    "title": "配置中心案例125",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000898",
+      "ds-q-002088",
+      "ds-q-003456"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-126",
+    "title": "脑裂案例126",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002392",
+      "ds-q-002365",
+      "ds-q-003480"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-127",
+    "title": "幂等重试案例127",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003317",
+      "ds-q-003357",
+      "ds-q-000702"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-128",
+    "title": "分布式事务案例128",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003642",
+      "ds-q-000204",
+      "ds-q-000657"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-129",
+    "title": "Saga案例129",
+    "description": "通过Saga掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001303",
+      "ds-q-002564",
+      "ds-q-000563"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-130",
+    "title": "Outbox案例130",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003348",
+      "ds-q-001886",
+      "ds-q-000429"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-131",
+    "title": "故障转移案例131",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003456",
+      "ds-q-001620",
+      "ds-q-000395"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-132",
+    "title": "容灾恢复案例132",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003569",
+      "ds-q-001360",
+      "ds-q-002404"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-133",
+    "title": "DS面试案例133",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001392",
+      "ds-q-000543",
+      "ds-q-001965"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-134",
+    "title": "分布式锁案例134",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000724",
+      "ds-q-000936",
+      "ds-q-000292"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-135",
+    "title": "库存扣减案例135",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002166",
+      "ds-q-002946",
+      "ds-q-000883"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-136",
+    "title": "订单状态一致性案例136",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002927",
+      "ds-q-000373",
+      "ds-q-001166"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-137",
+    "title": "支付回调一致性案例137",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001481",
+      "ds-q-002779",
+      "ds-q-001014"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-138",
+    "title": "缓存一致性案例138",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001768",
+      "ds-q-001632",
+      "ds-q-003656"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-139",
+    "title": "分库分表路由案例139",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002804",
+      "ds-q-001817",
+      "ds-q-003050"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-140",
+    "title": "一致性哈希案例140",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000990",
+      "ds-q-000492",
+      "ds-q-002234"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-141",
+    "title": "主从复制延迟案例141",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001301",
+      "ds-q-002518",
+      "ds-q-000624"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-142",
+    "title": "RaftLeader选举案例142",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002553",
+      "ds-q-003260",
+      "ds-q-001680"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-143",
+    "title": "服务发现案例143",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000481",
+      "ds-q-000874",
+      "ds-q-001673"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-144",
+    "title": "配置中心案例144",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002872",
+      "ds-q-000595",
+      "ds-q-003144"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-145",
+    "title": "脑裂案例145",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001132",
+      "ds-q-001139",
+      "ds-q-002295"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-146",
+    "title": "幂等重试案例146",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000120",
+      "ds-q-002783",
+      "ds-q-001836"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-147",
+    "title": "分布式事务案例147",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003037",
+      "ds-q-001410",
+      "ds-q-000137"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-148",
+    "title": "Saga案例148",
+    "description": "通过Saga掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000890",
+      "ds-q-001743",
+      "ds-q-000873"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-149",
+    "title": "Outbox案例149",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001152",
+      "ds-q-002282",
+      "ds-q-000220"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-150",
+    "title": "故障转移案例150",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002994",
+      "ds-q-001113",
+      "ds-q-000190"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-151",
+    "title": "容灾恢复案例151",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002952",
+      "ds-q-003453",
+      "ds-q-003142"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-152",
+    "title": "DS面试案例152",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000054",
+      "ds-q-001630",
+      "ds-q-001034"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-153",
+    "title": "分布式锁案例153",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000607",
+      "ds-q-003419",
+      "ds-q-000205"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-154",
+    "title": "库存扣减案例154",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000213",
+      "ds-q-000898",
+      "ds-q-002409"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-155",
+    "title": "订单状态一致性案例155",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002583",
+      "ds-q-002357",
+      "ds-q-002252"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-156",
+    "title": "支付回调一致性案例156",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001225",
+      "ds-q-000005",
+      "ds-q-001667"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-157",
+    "title": "缓存一致性案例157",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000777",
+      "ds-q-000003",
+      "ds-q-001297"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-158",
+    "title": "分库分表路由案例158",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000047",
+      "ds-q-000852",
+      "ds-q-003435"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-159",
+    "title": "一致性哈希案例159",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002784",
+      "ds-q-000982",
+      "ds-q-000774"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-160",
+    "title": "主从复制延迟案例160",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000617",
+      "ds-q-000326",
+      "ds-q-003161"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-161",
+    "title": "RaftLeader选举案例161",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002271",
+      "ds-q-001161",
+      "ds-q-000334"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-162",
+    "title": "服务发现案例162",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001454",
+      "ds-q-001368",
+      "ds-q-003208"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-163",
+    "title": "配置中心案例163",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001099",
+      "ds-q-002127",
+      "ds-q-002590"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-164",
+    "title": "脑裂案例164",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001062",
+      "ds-q-000732",
+      "ds-q-001815"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-165",
+    "title": "幂等重试案例165",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000651",
+      "ds-q-002595",
+      "ds-q-002659"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-166",
+    "title": "分布式事务案例166",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001659",
+      "ds-q-000323",
+      "ds-q-002225"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-167",
+    "title": "Saga案例167",
+    "description": "通过Saga掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001296",
+      "ds-q-003683",
+      "ds-q-003043"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-168",
+    "title": "Outbox案例168",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001754",
+      "ds-q-000002",
+      "ds-q-000073"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-169",
+    "title": "故障转移案例169",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001981",
+      "ds-q-000442",
+      "ds-q-000138"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-170",
+    "title": "容灾恢复案例170",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001400",
+      "ds-q-001487",
+      "ds-q-002900"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-171",
+    "title": "DS面试案例171",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000102",
+      "ds-q-001433",
+      "ds-q-000843"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-172",
+    "title": "分布式锁案例172",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002805",
+      "ds-q-002100",
+      "ds-q-001991"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-173",
+    "title": "库存扣减案例173",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003171",
+      "ds-q-000789",
+      "ds-q-002421"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-174",
+    "title": "订单状态一致性案例174",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001119",
+      "ds-q-000146",
+      "ds-q-001157"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-175",
+    "title": "支付回调一致性案例175",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002643",
+      "ds-q-000560",
+      "ds-q-003604"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-176",
+    "title": "缓存一致性案例176",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000346",
+      "ds-q-000035",
+      "ds-q-000920"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-177",
+    "title": "分库分表路由案例177",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001322",
+      "ds-q-001102",
+      "ds-q-000700"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-178",
+    "title": "一致性哈希案例178",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001508",
+      "ds-q-000508",
+      "ds-q-002946"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-179",
+    "title": "主从复制延迟案例179",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001403",
+      "ds-q-002894",
+      "ds-q-001765"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-180",
+    "title": "RaftLeader选举案例180",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001312",
+      "ds-q-001592",
+      "ds-q-002065"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-181",
+    "title": "服务发现案例181",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000407",
+      "ds-q-001922",
+      "ds-q-002144"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-182",
+    "title": "配置中心案例182",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002348",
+      "ds-q-001073",
+      "ds-q-002660"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-183",
+    "title": "脑裂案例183",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002037",
+      "ds-q-003673",
+      "ds-q-001166"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-184",
+    "title": "幂等重试案例184",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003222",
+      "ds-q-001496",
+      "ds-q-003423"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-185",
+    "title": "分布式事务案例185",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001608",
+      "ds-q-000536",
+      "ds-q-003247"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-186",
+    "title": "Saga案例186",
+    "description": "通过Saga掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001636",
+      "ds-q-003550",
+      "ds-q-002452"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-187",
+    "title": "Outbox案例187",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003095",
+      "ds-q-003517",
+      "ds-q-002294"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-188",
+    "title": "故障转移案例188",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000923",
+      "ds-q-003338",
+      "ds-q-001873"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-189",
+    "title": "容灾恢复案例189",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001126",
+      "ds-q-000057",
+      "ds-q-003317"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-190",
+    "title": "DS面试案例190",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000936",
+      "ds-q-003122",
+      "ds-q-002027"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-191",
+    "title": "分布式锁案例191",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002598",
+      "ds-q-000439",
+      "ds-q-003135"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-192",
+    "title": "库存扣减案例192",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003345",
+      "ds-q-000192",
+      "ds-q-000453"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-193",
+    "title": "订单状态一致性案例193",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000769",
+      "ds-q-001328",
+      "ds-q-003001"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-194",
+    "title": "支付回调一致性案例194",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002056",
+      "ds-q-002981",
+      "ds-q-002357"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-195",
+    "title": "缓存一致性案例195",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002651",
+      "ds-q-002679",
+      "ds-q-001666"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-196",
+    "title": "分库分表路由案例196",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003550",
+      "ds-q-003604",
+      "ds-q-001041"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-197",
+    "title": "一致性哈希案例197",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003695",
+      "ds-q-001479",
+      "ds-q-000535"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-198",
+    "title": "主从复制延迟案例198",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002289",
+      "ds-q-002227",
+      "ds-q-000442"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-199",
+    "title": "RaftLeader选举案例199",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002691",
+      "ds-q-002695",
+      "ds-q-000797"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-200",
+    "title": "服务发现案例200",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001705",
+      "ds-q-003434",
+      "ds-q-001933"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-201",
+    "title": "配置中心案例201",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000412",
+      "ds-q-002450",
+      "ds-q-000566"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-202",
+    "title": "脑裂案例202",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003252",
+      "ds-q-001036",
+      "ds-q-002340"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-203",
+    "title": "幂等重试案例203",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003094",
+      "ds-q-002351",
+      "ds-q-001137"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-204",
+    "title": "分布式事务案例204",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002356",
+      "ds-q-000732",
+      "ds-q-001544"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-205",
+    "title": "Saga案例205",
+    "description": "通过Saga掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002438",
+      "ds-q-001569",
+      "ds-q-001289"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-206",
+    "title": "Outbox案例206",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003406",
+      "ds-q-001569",
+      "ds-q-003274"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-207",
+    "title": "故障转移案例207",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000956",
+      "ds-q-000525",
+      "ds-q-001857"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-208",
+    "title": "容灾恢复案例208",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003627",
+      "ds-q-002623",
+      "ds-q-002686"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-209",
+    "title": "DS面试案例209",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001069",
+      "ds-q-001076",
+      "ds-q-000683"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-210",
+    "title": "分布式锁案例210",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002970",
+      "ds-q-000217",
+      "ds-q-001089"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-211",
+    "title": "库存扣减案例211",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003230",
+      "ds-q-000839",
+      "ds-q-000271"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-212",
+    "title": "订单状态一致性案例212",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003191",
+      "ds-q-001613",
+      "ds-q-001557"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-213",
+    "title": "支付回调一致性案例213",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001265",
+      "ds-q-002815",
+      "ds-q-001303"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-214",
+    "title": "缓存一致性案例214",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003280",
+      "ds-q-002139",
+      "ds-q-002042"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-215",
+    "title": "分库分表路由案例215",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002730",
+      "ds-q-001892",
+      "ds-q-002563"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-216",
+    "title": "一致性哈希案例216",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000409",
+      "ds-q-002808",
+      "ds-q-002240"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-217",
+    "title": "主从复制延迟案例217",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001454",
+      "ds-q-001763",
+      "ds-q-003105"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-218",
+    "title": "RaftLeader选举案例218",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001737",
+      "ds-q-001445",
+      "ds-q-000008"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-219",
+    "title": "服务发现案例219",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001618",
+      "ds-q-000351",
+      "ds-q-001862"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-220",
+    "title": "配置中心案例220",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001775",
+      "ds-q-000652",
+      "ds-q-001405"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-221",
+    "title": "脑裂案例221",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001491",
+      "ds-q-001233",
+      "ds-q-000632"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-222",
+    "title": "幂等重试案例222",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001325",
+      "ds-q-002278",
+      "ds-q-003637"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-223",
+    "title": "分布式事务案例223",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002469",
+      "ds-q-001466",
+      "ds-q-002383"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-224",
+    "title": "Saga案例224",
+    "description": "通过Saga掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000127",
+      "ds-q-002769",
+      "ds-q-003174"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-225",
+    "title": "Outbox案例225",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003122",
+      "ds-q-001061",
+      "ds-q-002846"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-226",
+    "title": "故障转移案例226",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000254",
+      "ds-q-002411",
+      "ds-q-002815"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-227",
+    "title": "容灾恢复案例227",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002967",
+      "ds-q-001492",
+      "ds-q-000934"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-228",
+    "title": "DS面试案例228",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001718",
+      "ds-q-003338",
+      "ds-q-000871"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-229",
+    "title": "分布式锁案例229",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000568",
+      "ds-q-001240",
+      "ds-q-003646"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-230",
+    "title": "库存扣减案例230",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002907",
+      "ds-q-002980",
+      "ds-q-002455"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-231",
+    "title": "订单状态一致性案例231",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001146",
+      "ds-q-003685",
+      "ds-q-003524"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-232",
+    "title": "支付回调一致性案例232",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001247",
+      "ds-q-003190",
+      "ds-q-002931"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-233",
+    "title": "缓存一致性案例233",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001756",
+      "ds-q-001714",
+      "ds-q-002503"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-234",
+    "title": "分库分表路由案例234",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003403",
+      "ds-q-001917",
+      "ds-q-001887"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-235",
+    "title": "一致性哈希案例235",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002036",
+      "ds-q-001509",
+      "ds-q-001846"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-236",
+    "title": "主从复制延迟案例236",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002142",
+      "ds-q-001403",
+      "ds-q-001273"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-237",
+    "title": "RaftLeader选举案例237",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000905",
+      "ds-q-001267",
+      "ds-q-000109"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-238",
+    "title": "服务发现案例238",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000482",
+      "ds-q-002425",
+      "ds-q-002907"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-239",
+    "title": "配置中心案例239",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003340",
+      "ds-q-003372",
+      "ds-q-002197"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-240",
+    "title": "脑裂案例240",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002015",
+      "ds-q-002429",
+      "ds-q-001487"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-241",
+    "title": "幂等重试案例241",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003384",
+      "ds-q-001097",
+      "ds-q-003019"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-242",
+    "title": "分布式事务案例242",
+    "description": "通过分布式事务掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001885",
+      "ds-q-001438",
+      "ds-q-001526"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-243",
+    "title": "Saga案例243",
+    "description": "通过Saga掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002542",
+      "ds-q-001440",
+      "ds-q-001654"
+    ],
+    "tags": [
+      "Saga"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-244",
+    "title": "Outbox案例244",
+    "description": "通过Outbox掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002069",
+      "ds-q-000923",
+      "ds-q-003552"
+    ],
+    "tags": [
+      "Outbox"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-245",
+    "title": "故障转移案例245",
+    "description": "通过故障转移掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000392",
+      "ds-q-000961",
+      "ds-q-001900"
+    ],
+    "tags": [
+      "故障转移"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-246",
+    "title": "容灾恢复案例246",
+    "description": "通过容灾恢复掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002354",
+      "ds-q-003025",
+      "ds-q-003604"
+    ],
+    "tags": [
+      "容灾恢复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-247",
+    "title": "DS面试案例247",
+    "description": "通过DS面试掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002096",
+      "ds-q-000469",
+      "ds-q-001311"
+    ],
+    "tags": [
+      "DS面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-248",
+    "title": "分布式锁案例248",
+    "description": "通过分布式锁掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-002508",
+      "ds-q-001454",
+      "ds-q-003016"
+    ],
+    "tags": [
+      "分布式锁"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-249",
+    "title": "库存扣减案例249",
+    "description": "通过库存扣减掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003084",
+      "ds-q-002409",
+      "ds-q-002847"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-250",
+    "title": "订单状态一致性案例250",
+    "description": "通过订单状态一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000880",
+      "ds-q-002875",
+      "ds-q-003017"
+    ],
+    "tags": [
+      "订单状态一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-251",
+    "title": "支付回调一致性案例251",
+    "description": "通过支付回调一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000586",
+      "ds-q-001205",
+      "ds-q-002353"
+    ],
+    "tags": [
+      "支付回调一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-252",
+    "title": "缓存一致性案例252",
+    "description": "通过缓存一致性掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001667",
+      "ds-q-000903",
+      "ds-q-003678"
+    ],
+    "tags": [
+      "缓存一致性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-253",
+    "title": "分库分表路由案例253",
+    "description": "通过分库分表路由掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000055",
+      "ds-q-001939",
+      "ds-q-000013"
+    ],
+    "tags": [
+      "分库分表路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-254",
+    "title": "一致性哈希案例254",
+    "description": "通过一致性哈希掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000999",
+      "ds-q-003460",
+      "ds-q-001141"
+    ],
+    "tags": [
+      "一致性哈希"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-255",
+    "title": "主从复制延迟案例255",
+    "description": "通过主从复制延迟掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003653",
+      "ds-q-003020",
+      "ds-q-001047"
+    ],
+    "tags": [
+      "主从复制延迟"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-256",
+    "title": "RaftLeader选举案例256",
+    "description": "通过RaftLeader选举掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-001222",
+      "ds-q-000242",
+      "ds-q-000578"
+    ],
+    "tags": [
+      "RaftLeader选举"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-257",
+    "title": "服务发现案例257",
+    "description": "通过服务发现掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000131",
+      "ds-q-002378",
+      "ds-q-001871"
+    ],
+    "tags": [
+      "服务发现"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-258",
+    "title": "配置中心案例258",
+    "description": "通过配置中心掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003611",
+      "ds-q-003226",
+      "ds-q-002927"
+    ],
+    "tags": [
+      "配置中心"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-259",
+    "title": "脑裂案例259",
+    "description": "通过脑裂掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-000961",
+      "ds-q-000935",
+      "ds-q-000288"
+    ],
+    "tags": [
+      "脑裂"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "ds-case-260",
+    "title": "幂等重试案例260",
+    "description": "通过幂等重试掌握DS",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ds-q-003565",
+      "ds-q-003411",
+      "ds-q-002649"
+    ],
+    "tags": [
+      "幂等重试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

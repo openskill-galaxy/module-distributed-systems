@@ -1,0 +1,41 @@
+{
+  "id": "mod-distributed-systems",
+  "slug": "module-distributed-systems",
+  "title": "分布式系统基础",
+  "subtitle": "面向后端和架构学习者",
+  "description": "面向后端架构和高并发系统学习者的分布式系统CAPBASE一致性模型复制分片Raft分布式事务分布式锁服务发现容错与工程实践训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "分布式系统",
+    "CAP",
+    "一致性",
+    "Raft",
+    "分布式事务",
+    "分布式锁",
+    "服务发现",
+    "高可用"
+  ],
+  "estimatedHours": 190,
+  "difficulty": "advanced",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "🌐",
+  "repoUrl": "https://github.com/openskill-galaxy/module-distributed-systems",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 113
+  }
+}
