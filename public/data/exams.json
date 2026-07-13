@@ -36,7 +36,11 @@
     "tags": [
       "DS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS入门基础",
+    "description": "DS入门基础",
+    "slug": "ds入门基础"
   },
   {
     "id": "ds-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "核心问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "核心问题基础",
+    "description": "核心问题基础",
+    "slug": "核心问题基础"
   },
   {
     "id": "ds-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "CAPBASE"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CAPBASE基础",
+    "description": "CAPBASE基础",
+    "slug": "capbase基础"
   },
   {
     "id": "ds-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "时钟事件顺序"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "时钟事件顺序基础",
+    "description": "时钟事件顺序基础",
+    "slug": "时钟事件顺序基础"
   },
   {
     "id": "ds-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "复制同步"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "复制同步基础",
+    "description": "复制同步基础",
+    "slug": "复制同步基础"
   },
   {
     "id": "ds-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "分片路由"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分片路由基础",
+    "description": "分片路由基础",
+    "slug": "分片路由基础"
   },
   {
     "id": "ds-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "共识Raft"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "共识Raft基础",
+    "description": "共识Raft基础",
+    "slug": "共识raft基础"
   },
   {
     "id": "ds-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "分布式事务"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式事务基础",
+    "description": "分布式事务基础",
+    "slug": "分布式事务基础"
   },
   {
     "id": "ds-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "分布式锁"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式锁基础",
+    "description": "分布式锁基础",
+    "slug": "分布式锁基础"
   },
   {
     "id": "ds-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "服务发现"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "服务发现基础",
+    "description": "服务发现基础",
+    "slug": "服务发现基础"
   },
   {
     "id": "ds-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "故障容错"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "故障容错基础",
+    "description": "故障容错基础",
+    "slug": "故障容错基础"
   },
   {
     "id": "ds-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "存储缓存"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储缓存基础",
+    "description": "存储缓存基础",
+    "slug": "存储缓存基础"
   },
   {
     "id": "ds-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "观测测试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "观测测试基础",
+    "description": "观测测试基础",
+    "slug": "观测测试基础"
   },
   {
     "id": "ds-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "DS案例面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS案例面试基础",
+    "description": "DS案例面试基础",
+    "slug": "ds案例面试基础"
   },
   {
     "id": "ds-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "DS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS入门基础",
+    "description": "DS入门基础",
+    "slug": "ds入门基础"
   },
   {
     "id": "ds-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "核心问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "核心问题基础",
+    "description": "核心问题基础",
+    "slug": "核心问题基础"
   },
   {
     "id": "ds-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "CAPBASE"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CAPBASE基础",
+    "description": "CAPBASE基础",
+    "slug": "capbase基础"
   },
   {
     "id": "ds-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "时钟事件顺序"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "时钟事件顺序基础",
+    "description": "时钟事件顺序基础",
+    "slug": "时钟事件顺序基础"
   },
   {
     "id": "ds-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "复制同步"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "复制同步基础",
+    "description": "复制同步基础",
+    "slug": "复制同步基础"
   },
   {
     "id": "ds-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "分片路由"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分片路由基础",
+    "description": "分片路由基础",
+    "slug": "分片路由基础"
   },
   {
     "id": "ds-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "共识Raft"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "共识Raft基础",
+    "description": "共识Raft基础",
+    "slug": "共识raft基础"
   },
   {
     "id": "ds-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "分布式事务"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式事务基础",
+    "description": "分布式事务基础",
+    "slug": "分布式事务基础"
   },
   {
     "id": "ds-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "分布式锁"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式锁基础",
+    "description": "分布式锁基础",
+    "slug": "分布式锁基础"
   },
   {
     "id": "ds-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "服务发现"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "服务发现基础",
+    "description": "服务发现基础",
+    "slug": "服务发现基础"
   },
   {
     "id": "ds-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "故障容错"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "故障容错基础",
+    "description": "故障容错基础",
+    "slug": "故障容错基础"
   },
   {
     "id": "ds-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "存储缓存"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储缓存基础",
+    "description": "存储缓存基础",
+    "slug": "存储缓存基础"
   },
   {
     "id": "ds-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "观测测试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "观测测试基础",
+    "description": "观测测试基础",
+    "slug": "观测测试基础"
   },
   {
     "id": "ds-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "DS案例面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS案例面试基础",
+    "description": "DS案例面试基础",
+    "slug": "ds案例面试基础"
   },
   {
     "id": "ds-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "DS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS入门基础",
+    "description": "DS入门基础",
+    "slug": "ds入门基础"
   },
   {
     "id": "ds-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "核心问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "核心问题基础",
+    "description": "核心问题基础",
+    "slug": "核心问题基础"
   },
   {
     "id": "ds-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "CAPBASE"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CAPBASE基础",
+    "description": "CAPBASE基础",
+    "slug": "capbase基础"
   },
   {
     "id": "ds-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "时钟事件顺序"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "时钟事件顺序基础",
+    "description": "时钟事件顺序基础",
+    "slug": "时钟事件顺序基础"
   },
   {
     "id": "ds-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "复制同步"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "复制同步基础",
+    "description": "复制同步基础",
+    "slug": "复制同步基础"
   },
   {
     "id": "ds-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "分片路由"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分片路由基础",
+    "description": "分片路由基础",
+    "slug": "分片路由基础"
   },
   {
     "id": "ds-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "共识Raft"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "共识Raft基础",
+    "description": "共识Raft基础",
+    "slug": "共识raft基础"
   },
   {
     "id": "ds-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "分布式事务"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式事务进阶",
+    "description": "分布式事务进阶",
+    "slug": "分布式事务进阶"
   },
   {
     "id": "ds-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "分布式锁"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式锁进阶",
+    "description": "分布式锁进阶",
+    "slug": "分布式锁进阶"
   },
   {
     "id": "ds-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "服务发现"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "服务发现进阶",
+    "description": "服务发现进阶",
+    "slug": "服务发现进阶"
   },
   {
     "id": "ds-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "故障容错"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "故障容错进阶",
+    "description": "故障容错进阶",
+    "slug": "故障容错进阶"
   },
   {
     "id": "ds-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "存储缓存"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储缓存进阶",
+    "description": "存储缓存进阶",
+    "slug": "存储缓存进阶"
   },
   {
     "id": "ds-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "观测测试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "观测测试进阶",
+    "description": "观测测试进阶",
+    "slug": "观测测试进阶"
   },
   {
     "id": "ds-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "DS案例面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS案例面试进阶",
+    "description": "DS案例面试进阶",
+    "slug": "ds案例面试进阶"
   },
   {
     "id": "ds-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "DS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS入门进阶",
+    "description": "DS入门进阶",
+    "slug": "ds入门进阶"
   },
   {
     "id": "ds-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "核心问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "核心问题进阶",
+    "description": "核心问题进阶",
+    "slug": "核心问题进阶"
   },
   {
     "id": "ds-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "CAPBASE"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CAPBASE进阶",
+    "description": "CAPBASE进阶",
+    "slug": "capbase进阶"
   },
   {
     "id": "ds-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "时钟事件顺序"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "时钟事件顺序进阶",
+    "description": "时钟事件顺序进阶",
+    "slug": "时钟事件顺序进阶"
   },
   {
     "id": "ds-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "复制同步"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "复制同步进阶",
+    "description": "复制同步进阶",
+    "slug": "复制同步进阶"
   },
   {
     "id": "ds-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "分片路由"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分片路由进阶",
+    "description": "分片路由进阶",
+    "slug": "分片路由进阶"
   },
   {
     "id": "ds-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "共识Raft"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "共识Raft进阶",
+    "description": "共识Raft进阶",
+    "slug": "共识raft进阶"
   },
   {
     "id": "ds-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "分布式事务"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式事务进阶",
+    "description": "分布式事务进阶",
+    "slug": "分布式事务进阶"
   },
   {
     "id": "ds-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "分布式锁"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式锁进阶",
+    "description": "分布式锁进阶",
+    "slug": "分布式锁进阶"
   },
   {
     "id": "ds-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "服务发现"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "服务发现进阶",
+    "description": "服务发现进阶",
+    "slug": "服务发现进阶"
   },
   {
     "id": "ds-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "故障容错"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "故障容错进阶",
+    "description": "故障容错进阶",
+    "slug": "故障容错进阶"
   },
   {
     "id": "ds-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "存储缓存"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储缓存进阶",
+    "description": "存储缓存进阶",
+    "slug": "存储缓存进阶"
   },
   {
     "id": "ds-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "观测测试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "观测测试进阶",
+    "description": "观测测试进阶",
+    "slug": "观测测试进阶"
   },
   {
     "id": "ds-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "DS案例面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS案例面试进阶",
+    "description": "DS案例面试进阶",
+    "slug": "ds案例面试进阶"
   },
   {
     "id": "ds-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "DS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS入门进阶",
+    "description": "DS入门进阶",
+    "slug": "ds入门进阶"
   },
   {
     "id": "ds-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "核心问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "核心问题进阶",
+    "description": "核心问题进阶",
+    "slug": "核心问题进阶"
   },
   {
     "id": "ds-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "CAPBASE"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CAPBASE进阶",
+    "description": "CAPBASE进阶",
+    "slug": "capbase进阶"
   },
   {
     "id": "ds-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "时钟事件顺序"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "时钟事件顺序进阶",
+    "description": "时钟事件顺序进阶",
+    "slug": "时钟事件顺序进阶"
   },
   {
     "id": "ds-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "复制同步"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "复制同步进阶",
+    "description": "复制同步进阶",
+    "slug": "复制同步进阶"
   },
   {
     "id": "ds-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "分片路由"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分片路由进阶",
+    "description": "分片路由进阶",
+    "slug": "分片路由进阶"
   },
   {
     "id": "ds-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "共识Raft"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "共识Raft进阶",
+    "description": "共识Raft进阶",
+    "slug": "共识raft进阶"
   },
   {
     "id": "ds-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "分布式事务"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式事务进阶",
+    "description": "分布式事务进阶",
+    "slug": "分布式事务进阶"
   },
   {
     "id": "ds-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "分布式锁"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式锁进阶",
+    "description": "分布式锁进阶",
+    "slug": "分布式锁进阶"
   },
   {
     "id": "ds-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "服务发现"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "服务发现进阶",
+    "description": "服务发现进阶",
+    "slug": "服务发现进阶"
   },
   {
     "id": "ds-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "故障容错"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "故障容错进阶",
+    "description": "故障容错进阶",
+    "slug": "故障容错进阶"
   },
   {
     "id": "ds-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "存储缓存"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储缓存进阶",
+    "description": "存储缓存进阶",
+    "slug": "存储缓存进阶"
   },
   {
     "id": "ds-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "观测测试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "观测测试进阶",
+    "description": "观测测试进阶",
+    "slug": "观测测试进阶"
   },
   {
     "id": "ds-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "DS案例面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS案例面试进阶",
+    "description": "DS案例面试进阶",
+    "slug": "ds案例面试进阶"
   },
   {
     "id": "ds-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "DS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS入门进阶",
+    "description": "DS入门进阶",
+    "slug": "ds入门进阶"
   },
   {
     "id": "ds-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "核心问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "核心问题进阶",
+    "description": "核心问题进阶",
+    "slug": "核心问题进阶"
   },
   {
     "id": "ds-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "CAPBASE"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CAPBASE进阶",
+    "description": "CAPBASE进阶",
+    "slug": "capbase进阶"
   },
   {
     "id": "ds-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "时钟事件顺序"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "时钟事件顺序进阶",
+    "description": "时钟事件顺序进阶",
+    "slug": "时钟事件顺序进阶"
   },
   {
     "id": "ds-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "复制同步"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "复制同步进阶",
+    "description": "复制同步进阶",
+    "slug": "复制同步进阶"
   },
   {
     "id": "ds-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "分片路由"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分片路由进阶",
+    "description": "分片路由进阶",
+    "slug": "分片路由进阶"
   },
   {
     "id": "ds-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "共识Raft"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "共识Raft进阶",
+    "description": "共识Raft进阶",
+    "slug": "共识raft进阶"
   },
   {
     "id": "ds-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "分布式事务"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式事务进阶",
+    "description": "分布式事务进阶",
+    "slug": "分布式事务进阶"
   },
   {
     "id": "ds-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "分布式锁"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式锁进阶",
+    "description": "分布式锁进阶",
+    "slug": "分布式锁进阶"
   },
   {
     "id": "ds-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "服务发现"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "服务发现进阶",
+    "description": "服务发现进阶",
+    "slug": "服务发现进阶"
   },
   {
     "id": "ds-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "故障容错"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "故障容错进阶",
+    "description": "故障容错进阶",
+    "slug": "故障容错进阶"
   },
   {
     "id": "ds-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "存储缓存"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储缓存进阶",
+    "description": "存储缓存进阶",
+    "slug": "存储缓存进阶"
   },
   {
     "id": "ds-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "观测测试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "观测测试进阶",
+    "description": "观测测试进阶",
+    "slug": "观测测试进阶"
   },
   {
     "id": "ds-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "DS案例面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS案例面试进阶",
+    "description": "DS案例面试进阶",
+    "slug": "ds案例面试进阶"
   },
   {
     "id": "ds-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "DS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS入门进阶",
+    "description": "DS入门进阶",
+    "slug": "ds入门进阶"
   },
   {
     "id": "ds-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "核心问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "核心问题进阶",
+    "description": "核心问题进阶",
+    "slug": "核心问题进阶"
   },
   {
     "id": "ds-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "CAPBASE"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CAPBASE进阶",
+    "description": "CAPBASE进阶",
+    "slug": "capbase进阶"
   },
   {
     "id": "ds-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "时钟事件顺序"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "时钟事件顺序进阶",
+    "description": "时钟事件顺序进阶",
+    "slug": "时钟事件顺序进阶"
   },
   {
     "id": "ds-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "复制同步"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "复制同步进阶",
+    "description": "复制同步进阶",
+    "slug": "复制同步进阶"
   },
   {
     "id": "ds-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "分片路由"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分片路由进阶",
+    "description": "分片路由进阶",
+    "slug": "分片路由进阶"
   },
   {
     "id": "ds-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "共识Raft"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "共识Raft进阶",
+    "description": "共识Raft进阶",
+    "slug": "共识raft进阶"
   },
   {
     "id": "ds-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "分布式事务"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式事务进阶",
+    "description": "分布式事务进阶",
+    "slug": "分布式事务进阶"
   },
   {
     "id": "ds-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "分布式锁"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "分布式锁进阶",
+    "description": "分布式锁进阶",
+    "slug": "分布式锁进阶"
   },
   {
     "id": "ds-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "服务发现"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "服务发现进阶",
+    "description": "服务发现进阶",
+    "slug": "服务发现进阶"
   },
   {
     "id": "ds-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "故障容错"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "故障容错进阶",
+    "description": "故障容错进阶",
+    "slug": "故障容错进阶"
   },
   {
     "id": "ds-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "存储缓存"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "存储缓存进阶",
+    "description": "存储缓存进阶",
+    "slug": "存储缓存进阶"
   },
   {
     "id": "ds-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "观测测试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "观测测试进阶",
+    "description": "观测测试进阶",
+    "slug": "观测测试进阶"
   },
   {
     "id": "ds-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "DS案例面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS案例面试进阶",
+    "description": "DS案例面试进阶",
+    "slug": "ds案例面试进阶"
   },
   {
     "id": "ds-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "DS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DS入门进阶",
+    "description": "DS入门进阶",
+    "slug": "ds入门进阶"
   },
   {
     "id": "ds-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "核心问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "核心问题进阶",
+    "description": "核心问题进阶",
+    "slug": "核心问题进阶"
   }
 ]
